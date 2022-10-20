@@ -1,0 +1,48 @@
+
+h2 {
+    text-align: center;
+
+    color: #e9b89d;
+
+    font-size: 1.4cm;
+}
+h1{
+    color: #e9b89d;
+}
+svg {
+    float: inline-start;
+
+}
+
+figure {
+
+   float: center;
+
+   margin: 10px 10px 10px 650px;
+
+ }
+
+p {
+    text-align: left;
+
+    float: left;
+
+    margin: 10px 650px 10px 0;
+
+}
+
+img {
+    border-radius: 50%;
+
+    text-align: left;
+
+    float: left;
+
+    margin: 10px 10px 10px 350px;
+    position: relative;
+    left: 100px;
+}
+.lera{
+    position: relative;
+    left: 150px;
+}
